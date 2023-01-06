@@ -1,0 +1,38 @@
+body {
+    background-color: teal;
+}
+
+div {
+    background-color: white;
+    margin: auto;
+    border: 10px solid black;
+    padding: 20px;
+    margin-top: 15%;
+    border-radius: 20px;
+}
+
+div#login {
+    width: 270px;
+}
+
+div#confirm {
+    width: 600px;
+}
+
+table td {
+    padding: 10px;
+}
+
+td#signup_heading {
+    font-size: 18pt;
+    text-align: center;
+}
+
+input.ta:focus {
+    background-color: #FFFFAA;
+}
+
+input.ta {
+    background-color: #EEEEEE;
+    font-family: monospace;
+}

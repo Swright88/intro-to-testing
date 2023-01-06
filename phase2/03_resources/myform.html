@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sign-up Form</title>
+    <link rel="stylesheet" href="style.css">
+    <script>
+/* this is a mostly correct email checker, although
+it doesn't check how long pre-@ and post-@ are */
+function checkEmail(email_value) {
+  var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+  if (email_value.match(mailformat)) {
+    return false;
+  } else {
+    return true;
+  }
+}
+/* this is a broken email checker - see details below*/
+function checkEmailTerrible(email_value) {
+  var mailformat = /^\w{2,}([\.-]?\w+)*@+\.?\w+([\.-]?\w+)*(\.\w{3})+$/;
+  if (email_value.match(mailformat)) {
+    return false;
+  } else {
+    return true;
+  }
+}
+// invalid email addresses that should fail but don't
+// => doesn't detect >64 characters before "@" e.g. 1234567890123456789012345678901234567890123456789012345678901234567890@bar.com
+// => foo@.bar.com isn't rejected as it doesn't pick up on "." after "@"
+// => foo@@bar.com isn't rejected despite >1 "@"
+
+// valid email addresses that fail but shouldn't
+// => foo@bar.co.uk is rejected because the "co" and "uk" are too short
+// => a@bar.com is rejected because it expects more characters (at least 2) before "@"
+
+function validateForm() {
+  let formname = document.forms["myForm"]["formname"].value;
+  let formage = document.forms["myForm"]["formage"].value;
+  let formemail = document.forms["myForm"]["formemail"].value
+  if (checkEmailTerrible(formemail)) {
+    alert("That's not a valid email address!");
+    return false;
+  } else if (formname == "" || formage == "" || formemail == "") {
+    alert("All fields must be filled out!");
+    return false;
+  }
+}
+    </script>
+  </head>
+  <body>
+    <div id="login">
+      <form name="myForm" action="confirmation.html" onsubmit="return validateForm()" method="post">
+        <table>
+          <tr>
+            <td colspan="2" id="signup_heading"><b>Please sign up!</b></td>
+          </tr>
+          <tr>
+            <td><label for="id_name">Name:</label></td>
+            <td><input type="text" name="formname" class="ta" id="id_name"></td>
+          </tr>
+          <tr>
+            <td><label for="id_age">Age:</label></td>
+            <td><input type="text" name="formage" class="ta" id="id_age"></td>
+          </tr>
+          <tr>
+            <td><label for="id_email">Email:</label></td>
+            <td><input type="text" name="formemail" class="ta" id="id_email"></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td><label for="id_submit"><input type="submit" value="Submit"></label></td>
+          </tr>
+        </table>
+      </form>
+    </div>
+  </body>
+</html>
