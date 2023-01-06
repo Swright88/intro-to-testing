@@ -49,7 +49,7 @@ you feedback on your pairing.
 
 When you upload the recording, share both of your names.
 
-## Why videos and not just the code?
+## Why include videos?
 
 We are focusing on the practices themselves, not just the outcomes of activities
 like testing, and there's value in the coaches being able to assess and help you
