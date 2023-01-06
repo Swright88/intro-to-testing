@@ -175,29 +175,11 @@ So it's much more likely that we aren't infected - what a relief. But our
 emotions can kick in quickly and rule over our ability to reason effectively,
 including thinking through some mathematics.
 
-/** EDU
+<!-- OMITTED -->
 
-Optical illusion image Caption something like "We’re as susceptible to cognitive
-illusions as we are to optical illusions" **/
+<!-- OMITTED -->
 
-/** EDU
-
-* Imagine a really large broadsheet newspaper
-* Fold it 100 times (assuming we can)
-* How thick is it? Thick as a microwave? Thick as a bus? Thick as a brick?
-* It would be thicker than the known universe (Sam Harris)
-* Called Anchoring - initial ideas “anchor” our brains into making smaller
-  estimates
-* Same can be seen with judges in trials **/
-
-/** EDU
-
-Which is more scary?
-* Dying in a rail accident (1 in 500,000)
-* An aeroplane falls from the sky and crashes into your house (1 in 250,000)
-Which mortality rate reduction in a drug would you financially back?
-* Drug A: from 5% to 0%
-* Drug B: from 50% to 40% **/
+<!-- OMITTED -->
 
 ### Diagnoses & The Conjunction Effect
 
@@ -214,17 +196,7 @@ have put the application into a particular "bad" state, or equally that they
 were all irrelevant and the single, final action we did is the only important
 bit.
 
-/** EDU
-
-Which of these two is more likely: HTTP response status code 500 (Server Error)
-comes back after login attempt when:
-
-1. Entered username has a space at the end and the password is wrong
-2. Entered password is wrong
-
-Mathematics shows that 2 is more probable than 1. Events occurring separately or
-together, at the overlap, cannot be more likely than each individual event. But
-in trials, 86% place a higher likelihood on 1. **/
+<!-- OMITTED -->
 
 Extra variables and potential effects makes something appear more plausible but
 in reality, makes it less probable.
@@ -239,15 +211,7 @@ probabilities.
 
 ### Confirmation Bias
 
-/** EDU
-
-Potentially: a word search exists, this can be given to the cohort split in two
-(or solo) for them to do their own search for 60s - tell them that they're
-either getting the "hard" version of the "easy" version although identical, as
-in theory this can bias whether they think they'll find lots or not many, and
-hence their resulting performance; there's a parallel to expecting to see bugs
-and not expecting to see bugs, and in the latter case how it's easy to
-subsequently "miss" things **/
+<!-- OMITTED -->
 
 Confirmation bias is a situation where we are primed by this bias regarding what
 to expect. Let's look at a hypothetical situation - a new piece of functionality
@@ -288,9 +252,7 @@ We can’t stop being human! The problem with this is that we can leap to an
 incorrect assumption that there's a relationship in some data when one doesn't
 really exist.
 
-/** EDU
-
-various graphs from http://www.tylervigen.com/spurious-correlations **/
+<!-- OMITTED -->
 
 The problem is that correlation doesn't mean causation. We need to be aware that
 just because it looks like, for example when we change variable X we see outcome
@@ -316,17 +278,7 @@ thinking can be broken into System 1 and System 2 thinking:
 | Easy                               | Difficult            |
 | Instinctual – kept ancestors alive | A process/rule based |
 
-/** EDU
-
-How many “F”s are in the following sentence? Write your answer down afterwards.
-
-FINISHED FILES ARE THE RESULT OF YEARS OF SCIENTIFIC STUDY COMBINED WITH THE
-EXPERENCE OF YEARS.
-
-Time’s up! Write the number down. It's 6. Sometimes we think we're thinking
-critically but we're not. And did you see the typo? Missing data while looking
-for something else – Attentional Blindness, key in testing to be aware of this.
-**/
+<!-- OMITTED -->
 
 While "creative thinking" can be thought of as divergent, "critical thinking" is
 convergent (J.P. Guilford, 1956). Whereas creative thinking can come up with

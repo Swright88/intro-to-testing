@@ -292,10 +292,7 @@ record of the decision.
 
 ## Exercise
 
-/** EDU
-  Before beginning this exercise - ensure that you've closed any "old" bug
-  reports in the repository which were created by a previous cohort.
-**/
+<!-- OMITTED -->
 
 This is a two-part exercise. The first part is a solo activity; the second part
 is a peer review activity.
@@ -312,14 +309,7 @@ template](03_resources/sample_bug_report_template.md) as a starting point.
 5. Continue creating these bug reports until maximum 1 hour has elapsed, or
 until you don't have any more bug reports to create, whichever comes first.
 
-/** EDU
-  It's possible to create a default issue template for a GitHub
-  repository, to bypass the need for devs to use a template markdown file. See
-  this URL:
-  https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/manually-creating-a-single-issue-template-for-your-repository
-  However I think it's useful to have this bug report template as a reference
-  point, regardless.
-**/
+<!-- OMITTED -->
 
 After this hour has elapsed, speak to the other person in your pair, and confirm
 that they have also completed the activity. Now, review each other's bug reports

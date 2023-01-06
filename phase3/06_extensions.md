@@ -21,7 +21,7 @@ and actual resources are:
 * If you feel like watching a video, here's a [90 min pairing session by Sam
   Connelly and James Bach](https://www.youtube.com/watch?v=87Wle_VLyJ8).
 
-/** @TODO add more ideas here, or update those above, as and when we find them **/
+<!-- OMITTED -->
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

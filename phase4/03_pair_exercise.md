@@ -56,7 +56,7 @@ If you aren't sure how to begin, what to do or just generally want to watch a
 similar session, run on a different part of Miro, take a look at this video.
 Note that it's over a shorter amount of time than your challenge.
 
-/** @TASK video of us testing Miro's mind map template **/
+<!-- OMITTED -->
 
 [Next Challenge](04_pair_challenge.md)
 
