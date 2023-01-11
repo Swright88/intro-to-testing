@@ -43,8 +43,8 @@ which we'll cover next.
 
 **Defects** or **Bugs** or **Faults** are problems within a piece of work where
 there is an implementation gap or incorrectness, and these are caused by human
-error - see above. The pieces of work where defects can exist are not just code
-- for example, a defect in a functional specification document.
+error - see above. The pieces of work where defects can exist are not just 
+code - for example, a defect in a functional specification document.
 
 Defects can be found by various test activities, from simply looking at the code
 to observing any resulting effects they can cause (see the next section for more
