@@ -225,7 +225,7 @@ fix? However, this isn't always the case. Consider these examples:
 working in versions of Internet Explorer older than version 11. This is **high
 severity** (a major piece of functionality is unavailable) but it may be deemed
 **low priority** if the site's metrics demonstrate that nobody has visited the
-website in Internet Explorer 20 for over six months.
+website in Internet Explorer 10 for over six months.
 * Your company has just completed an expensive rebranding exercise, but the site
 homepage still shows the old version of the logo. This may be **low severity**
 as it won't affect any users' ability to browse your site, but it may be deemed
