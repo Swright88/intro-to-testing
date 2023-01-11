@@ -33,9 +33,11 @@ One way to open the form is to browse to the folder on disk, then double-click
 ## Steps
 
 Work through each of the steps below in turn, using what you learned earlier
-about exploratory testing. The timings given are just suggestions - you should
-choose how long you want to spend on each section, noting you should give
-yourself 1 hour for this exercise at most.
+about exploratory testing.
+
+> **Note**: The timings given below are just suggestions - you should choose how
+long you want to spend on each section, noting you should give yourself **1 hour**
+for this exercise at most.
 
 1. Read up on what it is you're going to explore - that's the Application as
    written above (max 5 minutes)

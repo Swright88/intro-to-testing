@@ -59,12 +59,14 @@ back to the team for review.
 
 1. Read through the program description below, making your own notes as you go
 2. Prepare 5 different test cases - an example test is shown below the program
-   description
+   description; don't worry, you're not looking for "perfection" when doing
+   this, just giving yourself examples you can use later
 3. Start recording your challenge work at this point - record for a **maximum of
    1 hour**
 4. Acquire the developer's program, available alongside this file
 5. Run the developer's program, using your test cases to explore its behaviour,
-   making notes as you test
+   making notes as you test; N.B. you are not limited to only running the 5 test
+   cases you prepared, they are starting points for you to begin exploring
 6. Stop the recording
 7. Summarise your findings by writing up a report including what you found with
    your test cases and a one-line summary of each of the issues observed

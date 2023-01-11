@@ -35,7 +35,7 @@ like "we don't need to involve the testers in this", or doors might be closed
 But all is not lost! Below, you'll find some brief guidance as to why each of
 these is a myth. Together, we can destroy these misconceptions.
 
-## Testing is easy! Anybody can test.
+## Testing is easy! Anybody can test.
 
 It's true that most people - even small children - are capable of picking up
 something and evaluating whether it's fit-for-purpose. However, people will
@@ -284,7 +284,7 @@ and despite occasional hiccups, we wouldn't want it any other way. So while the
 memes may be funny, don't expect to encounter such a hostile and
 counter-productive relationship in the wild.
 
-## "That's not a bug, because nobody would ever do that."
+## "That's not a bug, because nobody would ever do that."
 
 Sometimes you might uncover the _perfect_ bug: the one which requires such a
 precise combination of inputs that you wonder how (despite your planning) you
