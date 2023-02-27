@@ -1,15 +1,24 @@
 # Exercise - Analysis (Part 1)
 
 These sections are pair pieces of work, where you will use the approaches and
-ideas from previous sections to analyse some specified functionality or
-applications, then work out what you would want to do during an exploratory
-testing session.
+ideas from previous sections to analyse some functionality which has been
+specified. You will then work out what you would want to do during an
+exploratory testing session.
 
 In the real world, planning test activities (while developers are implementing
 something, for example) can be useful as you can be "ready to start running
-tests" as soon as a testable application is made available, but also that it can
-be useful to provide feedback to designers, product owners and developers on
-materials such as a functional specification.
+tests" as soon as a testable application is made available, and also it can be
+useful to provide feedback to designers, product owners and developers as early
+as possible.
+
+Testers will use materials such as a functional specification or "wireframes"
+(or "mockups") in order to do the analysis and preparation.
+
+> Wireframes are schematics or blueprints which can help illustrate ideas such
+> as how pages on a website will be laid out or to highlight core bits of
+> functionality. They are usually created by user experience designers,
+> developers or business analysts, and wireframes can be a very useful material
+> for testers.
 
 These exercises will give you the opportunity to practice or experiment with
 skills such as:

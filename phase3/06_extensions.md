@@ -1,5 +1,3 @@
-# Extension
-
 # Extensions
 
 The testing community is a welcoming and busy one, with a number of "famous"
@@ -7,7 +5,7 @@ names and faces, many of which offer up ideas, approaches and opinions in a
 variety of different formats. There are blogs, videos, courses, Twitter feeds
 and a whole lot more.
 
-For this set of extensions before phase four starts tomorrow, take a look around
+For this set of extensions before Phase Four starts tomorrow, take a look around
 "the testing community", read/watch things that take your fancy and start to get
 some familiarity of what's out there. Some possible starting points, suggestions
 and actual resources are:

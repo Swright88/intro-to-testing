@@ -3,8 +3,8 @@
 _Coaching this? Read the coach guidance
 [here.](https://github.com/makersacademy/slug/blob/main/materials/universe/quality_engineering/intro_to_testing/phase3/workshops/bug_reports.x.md)_
 
-While your coach(es) will be running a session on this, here is some
-accompanying course material.
+Your coach(es) will be running a session on this. Here is some accompanying
+course material, but there's no need to read this before the session.
 
 We've discussed exploratory testing techniques, and how they contribute to
 informing us about product quality. We've also seen that sometimes these

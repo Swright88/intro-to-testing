@@ -7,7 +7,7 @@ functionality or applications.
 ## Application
 
 For this exercise, you will be testing a sample sign-up web form. Specifically,
-one field in that form - the email address field.
+one field in that form - **the email address field**.
 
 You've probably encountered numerous web forms with optional and mandatory
 fields, some of which are checked to see whether they are unexpectedly blank
@@ -36,11 +36,12 @@ Work through each of the steps below in turn, using what you learned earlier
 about exploratory testing.
 
 > **Note**: The timings given below are just suggestions - you should choose how
-long you want to spend on each section, noting you should give yourself **1 hour**
-for this exercise at most.
+> long you want to spend on each section, noting you should give yourself **1
+> hour** for this exercise at most.
 
 1. Read up on what it is you're going to explore - that's the Application as
-   written above (max 5 minutes)
+   written above (max 5 minutes) and **just the email address field** that it
+   contains
 2. Think about what you're going to test, how and why (e.g. 20 minutes)
     * Decide how to divide your time i.e. how long you want to spend planning,
       exploring then writing things up

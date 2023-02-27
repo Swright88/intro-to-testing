@@ -3,8 +3,9 @@
 _Coaching this? Read the coach guidance
 [here.](https://github.com/makersacademy/slug/blob/main/materials/universe/quality_engineering/intro_to_testing/phase2/workshops/organisation.x.md)_
 
-While your coach(es) will be running a session on this, some of which is based
-on exercises you did yesterday, here is some accompanying course material.
+Your coach(es) will be running a session on this, some of which is based on
+exercises you did yesterday. Here is some accompanying course material, but
+there's no need to read this before the session.
 
 ## Organisational Roles
 

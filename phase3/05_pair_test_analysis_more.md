@@ -4,7 +4,7 @@ Like the previous exercise, this is a paired piece of work. For this challenge,
 you will submit materials so your coach(es) can provide feedback.
 
 Also as before, there is nothing implemented, so there is no application to look
-at, play with, nor to run tests against.
+at, to explore, nor to run tests against.
 
 This challenge tests your skills and approaches that you've been building and
 using earlier on.
@@ -53,7 +53,9 @@ functional requirements then plan an exploratory testing activity.
    important to cover first, for example
 6. Write down **how** you might test those parts of the project - include test
    cases, steps test data and anything else that you think is needed
-7. Commit your resources to GitHub and submit your challenge
+7. Commit your resources (any notes, ideas, diagrams, what and how to test, and
+   the planned 90 minute exploratory testing session) to GitHub and submit your
+   challenge
 
 [After you're done, submit your challenge with a link to your GitHub
 repository](https://airtable.com/shrNFgNkPWr3d63Db?prefill_Item=itt_as02).

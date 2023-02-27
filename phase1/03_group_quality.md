@@ -3,6 +3,8 @@
 For this exercise, you'll work in a group to have a discussion. Your coach(es)
 will be putting you into a group for this particular piece of work.
 
+<!-- OMITTED -->
+
 Read through all the instructions in the following section before you all start!
 
 ## Exercise - Quality

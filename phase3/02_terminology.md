@@ -3,8 +3,8 @@
 _Coaching this? Read the coach guidance
 [here.](https://github.com/makersacademy/slug/blob/main/materials/universe/quality_engineering/intro_to_testing/phase3/workshops/terminology.x.md)_
 
-While your coach(es) will be running a session on this, here is some
-accompanying course material.
+Your coach(es) will be running a session on this. Here is some accompanying
+course material, but there's no need to read this before the session.
 
 In testing domain within software development there can be some different terms
 used to mean the same thing and sometimes are used incorrectly or to mean

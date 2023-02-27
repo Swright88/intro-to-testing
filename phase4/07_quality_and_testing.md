@@ -3,8 +3,8 @@
 _Coaching this? Read the coach guidance
 [here.](https://github.com/makersacademy/slug/blob/main/materials/universe/quality_engineering/intro_to_testing/phase4/workshops/quality_and_testing.x.md)_
 
-While your coach(es) will be running a session on this here is some accompanying
-course material.
+Your coach(es) will be running a session on this. Here is some accompanying
+course material, but there's no need to read this before the session.
 
 ## Quality?
 

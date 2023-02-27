@@ -3,8 +3,8 @@
 _Coaching this? Read the coach guidance
 [here.](https://github.com/makersacademy/slug/blob/main/materials/universe/quality_engineering/intro_to_testing/phase1/workshops/quality.x.md)_
 
-While your coach(es) will be running a session on this, here is some
-accompanying course material.
+Your coach(es) will be running a session on this. Here is some accompanying
+course material, but there's no need to read this before the session.
 
 ## Definitions
 
@@ -67,8 +67,8 @@ comprehensive unit testing.
 
 # Black Box & White Box
 
-While your coach(es) will be running a session on this, here is some
-accompanying course material.
+Your coach(es) will be running a session on this. Here is some accompanying
+course material, but there's no need to read this before the session.
 
 Two terms that are commonly seen in courses on software testing are "black box"
 and "white box". As the names suggest, they are totally different to each other,
@@ -116,6 +116,8 @@ implementation.
 
 We refer to it as a *black box* because the box is too dark to see inside, so we
 have no knowledge of its internal workings.
+
+<img src="./images/black_box_white_box.png" />
 
 [Next Challenge](02_risks.md)
 

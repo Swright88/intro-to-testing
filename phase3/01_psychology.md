@@ -3,8 +3,8 @@
 _Coaching this? Read the coach guidance
 [here.](https://github.com/makersacademy/slug/blob/main/materials/universe/quality_engineering/intro_to_testing/phase3/workshops/psychology.x.md)_
 
-While your coach(es) will be running a session on this, here is some
-accompanying course material.
+Your coach(es) will be running a session on this. Here is some accompanying
+course material, but there's no need to read this before the session.
 
 Software testing and quality engineering overlap with a huge range of related
 and less-obviously related areas, an important one of which is psychology.
@@ -175,12 +175,6 @@ So it's much more likely that we aren't infected - what a relief. But our
 emotions can kick in quickly and rule over our ability to reason effectively,
 including thinking through some mathematics.
 
-<!-- OMITTED -->
-
-<!-- OMITTED -->
-
-<!-- OMITTED -->
-
 ### Diagnoses & The Conjunction Effect
 
 When we're testing, we can encounter behaviour which we think is "bad" in some
@@ -196,8 +190,6 @@ have put the application into a particular "bad" state, or equally that they
 were all irrelevant and the single, final action we did is the only important
 bit.
 
-<!-- OMITTED -->
-
 Extra variables and potential effects makes something appear more plausible but
 in reality, makes it less probable.
 
@@ -210,8 +202,6 @@ The effect can be mitigated through a more careful review and evaluation of
 probabilities.
 
 ### Confirmation Bias
-
-<!-- OMITTED -->
 
 Confirmation bias is a situation where we are primed by this bias regarding what
 to expect. Let's look at a hypothetical situation - a new piece of functionality
@@ -252,8 +242,6 @@ We can’t stop being human! The problem with this is that we can leap to an
 incorrect assumption that there's a relationship in some data when one doesn't
 really exist.
 
-<!-- OMITTED -->
-
 The problem is that correlation doesn't mean causation. We need to be aware that
 just because it looks like, for example when we change variable X we see outcome
 Y change similarly, it doesn't automatically mean changes to X causes changes to
@@ -277,8 +265,6 @@ thinking can be broken into System 1 and System 2 thinking:
 | Best guess/Uses shortcuts          | Aware of bias, etc.  |
 | Easy                               | Difficult            |
 | Instinctual – kept ancestors alive | A process/rule based |
-
-<!-- OMITTED -->
 
 While "creative thinking" can be thought of as divergent, "critical thinking" is
 convergent (J.P. Guilford, 1956). Whereas creative thinking can come up with

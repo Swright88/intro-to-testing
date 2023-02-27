@@ -3,8 +3,8 @@
 _Coaching this? Read the coach guidance
 [here.](https://github.com/makersacademy/slug/blob/main/materials/universe/quality_engineering/intro_to_testing/phase1/workshops/risks.x.md)_
 
-While your coach(es) will be running a session on this, here is some
-accompanying course material.
+Your coach(es) will be running a session on this. Here is some accompanying
+course material, but there's no need to read this before the session.
 
 Simply put, a risk is something that may or may not occur which could cause some
 sort of problem or loss. In the world of software development and quality
@@ -19,6 +19,8 @@ into earth before you get to see the exciting material in Phase Two.
 It all sounds very "doom and gloom", but risk assessment is all about that -
 thinking up what bad things could happen, so that we can do something about it
 to help reduce how likely they are or how severe they could be if they do occur.
+The better you are at identifying, assessing and mitigating risks, should mean a
+lower likelihood of things falling apart later on.
 
 ## Likelihood
 

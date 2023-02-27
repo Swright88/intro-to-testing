@@ -1,10 +1,10 @@
 # Exploratory Testing
 
-While your coach(es) will be running a session on this, here is some
-accompanying course material.
-
 _Coaching this? Read the coach guidance
 [here.](https://github.com/makersacademy/slug/blob/main/materials/universe/quality_engineering/intro_to_testing/phase2/workshops/exploratory.x.md)_
+
+Your coach(es) will be running a session on this. Here is some accompanying
+course material, but there's no need to read this before the session.
 
 ## What is it?
 

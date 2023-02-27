@@ -3,9 +3,6 @@
 _Coaching this? Read the coach guidance
 [here.](https://github.com/makersacademy/slug/blob/main/materials/universe/quality_engineering/intro_to_testing/phase4/workshops/principles.x.md)_
 
-While your coach(es) will be running a session on this, here is some
-accompanying course material.
-
 There is a commonly used list of seven principles of software testing, which is
 also part of certain software testing certifications that are available.
 

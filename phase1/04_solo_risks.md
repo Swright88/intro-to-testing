@@ -82,6 +82,8 @@ Could there be any related to:
 
 ## Securing A Room
 
+<!-- OMITTED -->
+
 Lastly in this phase, it's time for some out-of-the-box thinking around risks
 and risk mitigation, with something that sounds like it's an interview question.
 
@@ -90,18 +92,14 @@ How might you make a room secure?
 This is a deliberately open-ended question... which itself possibly generates
 more questions in your own mind about this room.
 
-Set a timer for 15 minutes and start writing down ideas. It doesn't matter if
+Set a timer for 5 minutes and start writing down ideas. It doesn't matter if
 those are ways of securing the room, or questions about it that might be useful
 to have answers to, or anything else. This is an exercise where you are thinking
 about a problem and generating ideas, no matter how good or bad they might
 initially appear to be.
 
-There are no right or wrong answers to this, nor a submission to complete,
-although you are encouraged to share your ideas with others who have also
-completed the exercise to see what they come up with.
-
 <details>
-  <summary>If you're a few minutes in to the 15 and are stuck for where to go, expand this section for some ideas.</summary>
+  <summary>After those 5 minutes, expand this section for some guidance and more ideas.</summary>
 
 * What are we trying to secure/make safe within the room?
 * What are we trying to protect that thing or things from i.e. what harm could
@@ -109,6 +107,12 @@ completed the exercise to see what they come up with.
 * Where is the room located and what would it change in our answer?
 * What does the room look like inside or already have?
 </details>
+
+Spend another 10 minutes or so thinking about the question, noting down ideas.
+
+There are no right or wrong answers to this, nor a submission to complete,
+although you are encouraged to share your ideas with others who have also
+completed the exercise to see what they come up with.
 
 <details>
   <summary>If you're totally stuck, here's one rather off-the-wall set of thoughts, so you can see the sorts of things you could dream up.</summary>
