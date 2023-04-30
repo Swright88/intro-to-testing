@@ -116,6 +116,9 @@ over the lazy dog
 
 [Resources for this exercise](05_resources).
 
+> Please don't open the file to read the code. The idea of this exercise is that
+> you're testing it _without_ knowing how it has been implemented.
+
 ### Example Test
 
 The following is an example of how you should write your test cases. Test cases
