@@ -1,0 +1,12 @@
+Wrap_it Report
+
+Upon carrying out the initial 5 tests that I created, I was able to see that there are limits to how this program works.
+The tests that I was confident would pass, did just that. There were also some tests which I initially thought would either fail or return the original string and these did indeed fail as I suspected. 
+The main issue I found was that there appeared to be a lower limit for initialising the program and allowing it to function. All other tests performed as expected including not giving an interger for the wrap_it method and giving a string character instead of an integer.
+
+The issue around the lower limit came as a surprise to me. I was expecting that when giving an integer of 1 that the progrm would return each string character on its own line and then also include spaces where there were spaces between the words as appeared to happen with higher numbers. 
+To look into this further and do some more exploring I decided to run the program again givin gan integer of 3, this again failed. This is what then led me to believe that there was a range being specified in the program as I was getting an error message of - ValueError: substring not found.
+To test this theory out i then ran another test and recroded it giving an integer of 5, which I assumed would be enough to allow the program to run, but instead I was met with the same error message as before. 
+I then performed a few more tests out of curiosity without recording them on my test sheet. The fiorst was using int 10, this passed and ran the program. I then split the difference and tried it using an int of 7 which ran successfully and then 6 which also ran successfully. 
+I then concluded that I had found the lower limit to the range which was 6 as the first int to allow the program to run. I then ran the program with an int of 60 which is the length of my example, this ran as I expected even adding an empty line between my example and the end of file marker. 
+One final test with an int of 65 confirmed that my example would be returned and on the next line the end of file marker. These last 2 were purely for curiosty sake and I did not record them as I thought I was running out of time. It appears I wasn't, I just have a fast watch! :) 
